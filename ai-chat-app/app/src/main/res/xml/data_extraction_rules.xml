@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This XML file defines which files should be extracted during
+         automatic backups. For simplicity, we exclude nothing, allowing
+         Android to back up all files. See the Android documentation
+         for more information on data extraction rules. -->
+    <exclude package="com.example.aichat" />
+</data-extraction-rules>

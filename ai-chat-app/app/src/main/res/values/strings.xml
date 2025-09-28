@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Chat</string>
+    <!-- Notification channel name used by the foreground service. -->
+    <string name="notification_channel_name">AI Chat APIs</string>
+    <string name="notification_channel_description">Provides access to chat APIs over your local network.</string>
+    <string name="notification_title">AI Chat APIs running</string>
+    <string name="notification_body">Tap to manage settings</string>
+</resources>
